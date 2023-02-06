@@ -1,6 +1,7 @@
 class Main{
 
     public static void main(String[] args){
-        Game Game = new Game();
+        Uhrenszene Uhrenszene = new Uhrenszene();
+        Uhrenszene.run();
     }
 }
